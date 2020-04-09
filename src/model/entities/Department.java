@@ -8,7 +8,7 @@ import java.util.Objects;
  */
 public class Department implements Serializable {
 
-    //atributes
+    //attributes
     private Integer id;
     private String name;
 
